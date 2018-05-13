@@ -1,7 +1,7 @@
 # Learn English by Swift
 swift语言是按照英语来设计的，对于英语为母语的国家会非常容易理解，但如果不懂英语就尴尬了，这个项目是一个想法，如果我们先掌握swift语言里所有英文的基本含义，是不是可以更好的掌握这门语言。
 
-## closure
+### closure
 the fact of a business, organization, etc. stopping operating
 停业，倒闭，关闭
 
