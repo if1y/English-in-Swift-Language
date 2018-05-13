@@ -31,6 +31,11 @@ a particular way of doing something
 
 ## N
 ## O
+
+### optional
+If something is optional, you can choose if you want to do it, pay it, buy it, etc.
+可选择的；非强制的
+
 ## P
 
 ### property
@@ -51,6 +56,14 @@ a formal international agreement
 ### string
 a series of related things or events 
 一系列；一连串
+
+### switch
+a small device, usually pushed up or down with your finger, that controls and turns on or off an electric current
+开关
+
+### subscript
+a word, letter, number, or symbol written or printed just below another word, letter, number, or symbol, usually in a smaller size
+下标
 
 ## T
 ## U
