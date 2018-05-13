@@ -33,6 +33,13 @@ a particular way of doing something
 ## O
 ## P
 
+### property
+an object or objects that belong to someone
+所有物；财产；资产
+
+a quality in a substance or material, especially one that means that it can be used in a particular way
+属性，性能，特性
+
 ### protocol 
 a formal international agreement
 （正式的国际性）条约，公约，议定书
