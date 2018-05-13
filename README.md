@@ -49,6 +49,9 @@ a quality in a substance or material, especially one that means that it can be u
 a formal international agreement
 （正式的国际性）条约，公约，议定书
 
+a computer language allowing computers that are connected to each other to communicate
+规程，协议（计算机之间交换信息的计算机语言）
+
 ## Q
 ## R
 ## S
@@ -56,6 +59,9 @@ a formal international agreement
 ### string
 a series of related things or events 
 一系列；一连串
+
+a usually short piece of text consisting of letters, numbers, or symbols that is used in computer processes such as searching through large amounts of information
+字符串；信息串
 
 ### switch
 a small device, usually pushed up or down with your finger, that controls and turns on or off an electric current
