@@ -2,79 +2,87 @@
 swift语言是按照英语来设计的，对于英语为母语的国家会非常容易理解，但如果不懂英语就尴尬了，这个项目是一个想法，如果我们先掌握swift语言里所有英文的基本含义，是不是可以更好的掌握这门语言。
 
 ## A
-## B
-## C
+### alias
+### associated
 
-### closure
+## B
+
+## C
+### class
+### closure 停业，倒闭，关闭
 the fact of a business, organization, etc. stopping operating
-停业，倒闭，关闭
 
 ## D
-## E
+### de-
 
-### enumerate
+## E
+### enumerate 列举，枚举
 to name things separately, one by one
-列举，枚举
+### extension
 
 ## F
-## G
-## H
-## I
-## J
-## K
-## L
-## M
+### function
+### file
 
-### method
-a particular way of doing something
-方法，方式
+## G
+
+## H
+
+## I
+### import
+### initialize
+### input
+### internal
+
+## J
+
+## K
+
+## L
+### let
+
+## M
+### method 方法，方式
+> a particular way of doing something
 
 ## N
-## O
 
-### optional
-If something is optional, you can choose if you want to do it, pay it, buy it, etc.
-可选择的；非强制的
+## O
+### operator
+* optional 可选择的；非强制的
+> If something is optional, you can choose if you want to do it, pay it, buy it, etc. 
+### open
+### output
 
 ## P
-
-### property
-an object or objects that belong to someone
-所有物；财产；资产
-
-a quality in a substance or material, especially one that means that it can be used in a particular way
-属性，性能，特性
-
-### protocol 
-a formal international agreement
-（正式的国际性）条约，公约，议定书
-
-a computer language allowing computers that are connected to each other to communicate
-规程，协议（计算机之间交换信息的计算机语言）
+### private
+### property 所有物；财产；资产 an object or objects that belong to someone
+### protocol （正式的国际性）条约，公约，议定书 a formal international agreement
+### public
 
 ## Q
+
 ## R
+
 ## S
-
-### string
-a series of related things or events 
-一系列；一连串
-
-a usually short piece of text consisting of letters, numbers, or symbols that is used in computer processes such as searching through large amounts of information
-字符串；信息串
-
-### switch
-a small device, usually pushed up or down with your finger, that controls and turns on or off an electric current
-开关
-
-### subscript
-a word, letter, number, or symbol written or printed just below another word, letter, number, or symbol, usually in a smaller size
-下标
+### string 一系列；一连串 a series of related things or events 
+### static
+### struct
+### switch 开关 a small device, usually pushed up or down with your finger, that controls and turns on or off an electric current
+### subscript 下标 a word, letter, number, or symbol written or printed just below another word, letter, number, or symbol, usually in a smaller size
 
 ## T
+### type
+
 ## U
+
 ## V
+
 ## W
+
 ## X
+
 ## Y
+
 ## Z
+
