@@ -42,7 +42,7 @@ to name things separately, one by one
 ### let
 
 ## M
-### method 方法，方式
+##### method 方法，方式
 > a particular way of doing something
 
 ## N
@@ -56,7 +56,8 @@ to name things separately, one by one
 
 ## P
 ### private
-### property 所有物；财产；资产 an object or objects that belong to someone
+###### property 所有物；财产；资产
+> an object or objects that belong to someone
 ### protocol （正式的国际性）条约，公约，议定书 a formal international agreement
 ### public
 
