@@ -49,7 +49,7 @@ to name things separately, one by one
 
 ## O
 ### operator
-* optional 可选择的；非强制的
+#### optional 可选择的；非强制的
 > If something is optional, you can choose if you want to do it, pay it, buy it, etc. 
 ### open
 ### output
