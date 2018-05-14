@@ -1,5 +1,7 @@
-# 学习Swift之前需要掌握的基本英语词汇表
-所有的词汇按照首字母顺序分区，第一行前面是单词，后面是中文释义，下面引用格式的是英文释义。
+# 和Swift语言相关的英语词汇表
+* 所有的词汇按照首字母顺序分区，第一行前面是单词，后面是中文释义，下面引用格式的是英文释义。
+* 每个单词都有多个基本含义，我尽量挑选和Swift相近的含义，如果发现有理解错的，请大家直接在Issue中提出哈。
+* 所有的解释取自剑桥英汉词典 https://dictionary.cambridge.org/dictionary/english-chinese-simplified/
 
 ## A
 ##### alias 又名，亦名；别名
@@ -38,31 +40,48 @@
 > suitable for your purposes and needs and causing the least difficulty
 
 ## D
-##### de-
-##### default
-##### defer
-##### do
-##### dynamic
+##### de- （用于名词或动词前）表示“相反”、“除去”或“减少”
+> used to add the meaning "opposite", "remove", or "reduce" to a noun or verb
+##### default 默认结果，既定结果；预置值；缺省值
+> the thing that exists or happens if you do not change it intentionally by performing an action
+##### defer 使延期，使延缓，推迟
+> to delay something until a later time
+##### do 做；履行；执行
+> to perform, take part in, or achieve something
+##### dynamic 不断变化的；不断发展的
+> continuously changing or developing
 
 ## E
 ##### enumerate 列举，枚举
 > to name things separately, one by one
-##### extension
-##### else
-##### end
+##### extension 伸展；延伸
+> the fact of reaching, stretching, or continuing; the act of adding to something in order to make it bigger or longer
+##### else 其他，另外，别的
+> mean 'other', 'another', 'different', 'extra'
+##### end 末端，尽头
+> the part of a place or thing that is furthest away from the centre
 
 ## F
-##### function
-##### file
-##### fall through
-##### for
-##### false
-##### final
-##### fix
+##### function 功能，用途；职责
+> the natural purpose (of something) or the duty (of a person)
+##### file （尤指办公室的）文件箱，文件夹，卷宗
+> any of several different types of container used to store papers, letters, and other documents in an ordered way, especially in an office
+##### fall through 未发生；失败；落空
+>  to fail to happen
+##### for （用于同类事物的比较）就…而言
+> used for comparing one thing with others of the same type
+##### false 错误的
+> not correct
+##### final 最后的，最终的
+> last
+##### fix 使固定；安装
+> to fasten something in position so that it cannot move
 
 ## G
-##### guard
-##### get
+##### guard 卫兵，警卫；看守，守卫
+> a person or group of people whose job is to protect a person, place, or thing from danger or attack, or to prevent a person such as a criminal from escaping
+##### get 收到；得到；接到
+> to receive or be given something
 
 ## H
 
